@@ -11,9 +11,7 @@ followers are complaining that they are having trouble locating specific reports
 
 Level 1: Automatic Table and Date Search
 Interactive web page using JavaScript, HTML, and CSS that allows user to filter ufo sighting table-data based on user input
-Original html web page using input tags to parse through table data:
-https://blueskiesatx.github.io/aliens_r_real/index.html
+Original html web page using input tags to parse through table data
 
 Level 2: Multiple Search Categories 
-Final html web page using DataTables plugin to easily parse data by date and/or keywords:
-https://blueskiesatx.github.io/aliens_r_real/master/index_bonus_plugin.html
+Final html web page using DataTables plugin to easily parse data by date and/or keywords
